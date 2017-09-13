@@ -23,3 +23,8 @@ h1 {
     color: white;
     padding: 10px 5px;
 }
+
+.nav-main {
+    margin: 0 auto;
+    text-align: center;
+}
