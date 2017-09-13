@@ -48,3 +48,13 @@ h2 {
     padding: 10px 10px;
     text-align: center;
 }
+
+.photo-card {
+    display: inline-block;
+    margin: 8px 0;
+}
+
+.gallery-container {
+    margin: 0 auto;
+    text-align: center;
+}
