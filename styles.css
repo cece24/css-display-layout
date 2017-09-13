@@ -16,3 +16,10 @@ h1 {
     margin-bottom: 0;
     padding: 12px;
 }
+
+.nav-item {
+    display: inline-block;
+    background-color: #c9c9dc;
+    color: white;
+    padding: 10px 5px;
+}
