@@ -38,3 +38,13 @@ h2 {
     padding: 10px;
     margin: 15px 0;
 }
+
+.photo-options p {
+    margin: 0;
+}
+
+.photo-options {
+    background-color: gold;
+    padding: 10px 10px;
+    text-align: center;
+}
