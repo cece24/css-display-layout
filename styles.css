@@ -32,3 +32,9 @@ h1 {
 .gallery-section {
     padding: 0px 40px;
 }
+
+h2 {
+    background-color: #4cffd3;
+    padding: 10px;
+    margin: 15px 0;
+}
