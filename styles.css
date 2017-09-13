@@ -28,3 +28,7 @@ h1 {
     margin: 0 auto;
     text-align: center;
 }
+
+.gallery-section {
+    padding: 0px 40px;
+}
